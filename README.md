@@ -1,7 +1,7 @@
 # Upload-Folder-to-GitHub
-This repository will tell you how to upload multiple Folders or a Project to GitHub Repository.
+This repository will tell you how to upload multiple Folders or a Project to GitHub repository.
 
-# Follow these steps to upload a folder to a GitHub repository:
+# Follow these steps to upload multiple folder or a project  to  GitHub repository:
 
 # Note Download Git Bash First. Ignore if already Downloaded.
 
