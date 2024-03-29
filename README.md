@@ -6,11 +6,14 @@ This repository will tell you how to upload multiple Folders or a Project to Git
 
 # Follow these steps to upload a folder to a GitHub repository:
 
+# Note Download Git Bash for Better results.
+
+
 1. Initialize a Git repository in your project directory:
-\'bash
+'''bash
 cd /path/to/your/project
 git init
-\'
+'''
 
 2. Create a new file called LICENSE in your project directory, and copy the text of the MIT License into this file. You can find the MIT License text here.
 
