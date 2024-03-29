@@ -8,7 +8,7 @@ This repository will tell you how to upload multiple Folders or a Project to Git
 Git Bash https://git-scm.com/downloads
 
 1. Open Git Bash CLI.
-2. Navigate to the Desigered Folder or project.
+2. Navigate to the desired Folder or Project.
     ```bash
     cd /path/to/your/project
     ```
