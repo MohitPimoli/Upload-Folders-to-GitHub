@@ -16,9 +16,9 @@ This repository will tell you how to upload multiple Folders or a Project to Git
     ```bash
     git init
     ```
-4. Create a new file called LICENSE in your project directory, and copy the text of the desired Licence into this file. You can find the License text on internet. ( Optional Step. )
+4. Create a new file called LICENSE in your project directory, and copy the text of the desired License into this file. You can find the License text on internet. ( Optional Step. )
     ```bash
-    nano LICENCE
+    nano LICENSE
     ```
 Paste the text inside and save it by pressing Ctrl+x >>> then  y >>> then  Enter.
 
