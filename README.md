@@ -23,17 +23,22 @@ This repository will tell you how to upload multiple Folders or a Project to Git
 Paste the text inside and save it by pressing Ctrl+x >>> then  y >>> then  Enter.
 
 5. Add all your project files to the Git repository:
-    ```bash
-    git add .
-    ```
-6. Commit your files to the repository:
+   - For adding all files at once use.
+        ```bash
+        git add .
+        ```
+    - For adding one file at a time use.
+       ```bash
+        git add <file_name>
+        ```
+7. Commit your files to the repository:
     ```bash
     git commit -m "Your Commit"
     ```
 
-7. Create a new repository on GitHub. Make sure to not initialize it with a README, .gitignore, or License. This is because you are pushing an existing repository.
+8. Create a new repository on GitHub. Make sure to not initialize it with a README, .gitignore, or License. This is because you are pushing an existing repository.
 
-8. Link the local repository to the remote repository:
+9. Link the local repository to the remote repository:
     ```bash
     git remote add origin https://github.com/username/new-repo.git
     ```
