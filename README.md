@@ -44,6 +44,11 @@ Paste the text inside and save it by pressing Ctrl+x >>> then  y >>> then  Enter
     ```bash
     git remote add origin https://github.com/username/new-repo.git
     ```
+    or
+    ```bash
+    git remote add origin git@github.com:username/new-repo.git
+    ```
+   
 Replace https://github.com/username/new-repo.git with the URL of your newly created GitHub repository.
 
 9. Rename your current branch to master:
